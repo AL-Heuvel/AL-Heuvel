@@ -18,11 +18,14 @@ Ik ben een tweedejaars Creative Software Development student met interesse in fr
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+Visual Studio Code
 
 ## 🚀 Featured Projects
-- [Muzeum de pixel]((https://github.com/AL-Heuvel/museum_de_pixel)) – mijn eerste project in teamverband
-- [Quizy](https://github.com/AL-Heuvel/Quiz) – quize over klimaat
+- [Portfolio Website](https://102820.stu.sd-lab.nl/portfolio/index.html?classId=6590ea1f-440c-42a9-83e2-c1dcefc09e60&assignmentId=712b246a-054a-4a83-bcd0-1ea9bcec522b&submissionId=7ae50548-d7c4-e44b-ea9f-19c977ab8c48) – Persoonlijke portfolio website gemaakt met HTML, CSS en JavaScript.
+- [Muzeum de pixel](https://github.com/AL-Heuvel/museum_de_pixel) – mijn eerste project in teamverband.
+- [Quizy](https://github.com/AL-Heuvel/Quiz) – quize over klimaat.
 - [Stop de ontkoking](https://github.com/SebasGLR/StopOntkoking) –  een website om recepten te bekijken en delen.
+- 
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=AL-Heuvel&theme=darcula&hide_border=false&include_all_commits=true&count_private=true)<br/>
