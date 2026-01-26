@@ -1,6 +1,5 @@
 # 💫 About Me:
-Software Development student met interesse in front-end en databasesop zoek naar een stage in webontwikkeling.
-Ik ben An Lei, een enthousiaste front-end developer in opleiding. Op mijn GitHub deel ik projecten die ik maak tijdens school en zelfstudie, zoals websites en kleine apps. Ik ben vooral bezig met HTML, CSS, JavaScript, en ik wil ook Python en React leren. Feedback en tips zijn altijd welkom!
+Ik ben tweede jaar Creative Software Development student met interesse in front-end en databasesop zoek naar een stage in webontwikkeling. Ik vind het leuk om websites te maken en nieuwe dingen te leren. Voor mijn stage zoek ik een bedrijf waar ik kan meewerken aan projecten, veel kan leren en ervaring kan opdoen in een team. Op mijn GitHub deel ik projecten die ik maak tijdens school en zelfstudie, zoals websites en kleine apps. Ik ben vooral bezig met HTML, CSS, JavaScript, en ik wil ook Python en React leren. Feedback en tips zijn altijd welkom!
 
 
 ## 🌐 Socials:
