@@ -20,9 +20,9 @@ Ik ben een tweedejaars Creative Software Development student met interesse in fr
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 ## 🚀 Featured Projects
-- [Portfolio Website](https://github.com/AL-Heuvel/portfolio) – Persoonlijke portfolio website gemaakt met HTML, CSS en JavaScript.
-- [To-do App](https://github.com/AL-Heuvel/todo-app) – Kleine webapp met login-functionaliteit; front-end en design zelf gemaakt.
-- [API Experiment](https://github.com/AL-Heuvel/api-experiment) – Zelfstudieproject waarin ik leer hoe je snel en efficiënt een API bouwt en gebruikt in JavaScript en Python.
+- [Muzeum de pixel]((https://github.com/AL-Heuvel/museum_de_pixel)) – mijn eerste project in teamverband
+- [Quizy](https://github.com/AL-Heuvel/Quiz) – quize over klimaat
+- [Stop de ontkoking](https://github.com/SebasGLR/StopOntkoking) –  een website om recepten te bekijken en delen.
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=AL-Heuvel&theme=darcula&hide_border=false&include_all_commits=true&count_private=true)<br/>
