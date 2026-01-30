@@ -1,5 +1,5 @@
 # 💫 About Me
-Ik ben een tweedejaars Creative Software Development student met interesse in front-end en databases, op zoek naar een stage in webontwikkeling. Ik maak graag websites en kleine apps en leer continu nieuwe technieken, zoals Python en React. Tijdens mijn stage wil ik bijdragen aan projecten, ervaring opdoen in een team en mijn vaardigheden verder ontwikkelen. Feedback en tips zijn altijd welkom!
+Ik ben een tweedejaars Creative Software Development student met interesse in front-end en databases, op zoek naar een stage in webontwikkeling. Ik maak graag websites en kleine apps. Tijdens mijn stage wil ik bijdragen aan projecten, ervaring opdoen in een team en mijn vaardigheden verder ontwikkelen. Feedback en tips zijn altijd welkom!
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/an-lei-van-den-heuvel-521a21398/) 
