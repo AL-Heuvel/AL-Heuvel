@@ -16,14 +16,6 @@ Visual Studio Code
 - [Quizy](https://github.com/AL-Heuvel/Quiz) – quize over klimaat.
 - [Stop de ontkoking](https://github.com/SebasGLR/StopOntkoking) –  een website om recepten te bekijken en delen.
 
-- # 💫 About Me:
-Ik ben een tweedejaars Creative Software Development student met interesse in front-end en databases, op zoek naar een stage in webontwikkeling. Ik maak graag websites en kleine apps. Tijdens mijn stage wil ik bijdragen aan projecten, ervaring opdoen in een team en mijn vaardigheden verder ontwikkelen. Feedback en tips zijn altijd welkom!
 
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AL-Heuvel&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AL-Heuvel&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AL-Heuvel&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
