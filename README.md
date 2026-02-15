@@ -15,6 +15,7 @@ Visual Studio Code
 - [Muzeum de pixel](https://github.com/AL-Heuvel/museum_de_pixel) – mijn eerste project in teamverband.
 - [Quizy](https://github.com/AL-Heuvel/Quiz) – quize over klimaat.
 - [Stop de ontkoking](https://github.com/SebasGLR/StopOntkoking) –  een website om recepten te bekijken en delen.
+- - [bib](https://github.com/AL-Heuvel/bib) –  een website om films, series, anine, games, boeken, manhwa's,webtoons en manga's bij te houden
 
 
 
